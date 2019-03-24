@@ -1,1 +1,1 @@
-print("hi hw tr u")
+print("hi hw")
